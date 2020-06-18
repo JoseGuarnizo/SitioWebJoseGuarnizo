@@ -1,2 +1,2 @@
 # Página Web JoseGuarnizo
-### Encontrarás todo mi página web, acerca de mí, enfoques y servicios que ofrezco
+### Encontrarás el archivo de desarrollo de mi página web, archivo de proceso de construcción.

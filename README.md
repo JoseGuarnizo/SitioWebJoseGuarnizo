@@ -1,2 +1,2 @@
 # Página Web JoseGuarnizo
-### Encontraras todo mi portal web y enfoques y servicios que ofrezco
+### Encontrarás todo mi página web, acerca de mí, enfoques y servicios que ofrezco
